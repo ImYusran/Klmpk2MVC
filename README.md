@@ -9,3 +9,4 @@ Nama Kelompok 2 MVC :
 6. Annisa Az'zahra Tarimana        | E1E121050
 7. Zahra Maharani Aulia            | E1E121098
 8. Putri Salzahara                 | E1E121085
+9. Mawar                           | E1E121065
