@@ -8,3 +8,4 @@ Nama Kelompok 2 MVC :
 5. La Ode Muhammad Firza Fahrezi   | E1E121030
 6. Annisa Az'zahra Tarimana        | E1E121050
 7. Zahra Maharani Aulia            | E1E121098
+8. Putri Salzahara                 | E1E121085
